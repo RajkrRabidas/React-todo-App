@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { nanoid } from "nanoid";
 import "../../src/App.css";
 import { useForm } from "react-hook-form";
+import "../../public/todo.png"
 
 const Create = (props) => {
   const todos = props.todos;

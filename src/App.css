@@ -160,4 +160,9 @@ h2 {
   .input-section button {
     width: 100%;
   }
+  .container {
+  min-width: 350px;
+  color: white;
+  text-align: center;
+}
 }
