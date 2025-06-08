@@ -22,7 +22,7 @@ A modern and minimal Todo application built with **ReactJS**. Designed with a be
 
 ## 📸 Screenshot
 
-![Todo App Screenshot](./screenshot.png) <!-- You can upload a screenshot in repo and link it -->
+![Todo App Screenshot]( "../../public/todo.png") <!-- You can upload a screenshot in repo and link it -->
 
 ---
 
@@ -49,11 +49,6 @@ A modern and minimal Todo application built with **ReactJS**. Designed with a be
 - CSS3
 - JavaScript (ES6)
 - LocalStorage API
-
-## 📸 Preview
-
-![App Screenshot](./todo.png)
-
 
 ## 📄 License
 
