@@ -22,7 +22,7 @@ A modern and minimal Todo application built with **ReactJS**. Designed with a be
 
 ## 📸 Screenshot
 
-![Todo App Screenshot](./screenshot.png) <!-- You can upload a screenshot in repo and link it -->
+![Todo App Screenshot]( "../../public/todo.png") <!-- You can upload a screenshot in repo and link it -->
 
 ---
 
@@ -37,6 +37,22 @@ A modern and minimal Todo application built with **ReactJS**. Designed with a be
 ---
 
 ## 📁 Project Structure
+
+- Add and delete tasks
+- Glassmorphism design
+- Saves todos in LocalStorage
+- React functional components
+
+## 🛠 Tech Stack
+
+- React JS
+- CSS3
+- JavaScript (ES6)
+- LocalStorage API
+
+## 📄 License
+
+MIT
 
 ✨ Author
 Made with ❤️ by Raj kumar Rabidas
