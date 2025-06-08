@@ -38,6 +38,27 @@ A modern and minimal Todo application built with **ReactJS**. Designed with a be
 
 ## 📁 Project Structure
 
+- Add and delete tasks
+- Glassmorphism design
+- Saves todos in LocalStorage
+- React functional components
+
+## 🛠 Tech Stack
+
+- React JS
+- CSS3
+- JavaScript (ES6)
+- LocalStorage API
+
+## 📸 Preview
+
+![App Screenshot](./todo.png)
+
+
+## 📄 License
+
+MIT
+
 ✨ Author
 Made with ❤️ by Raj kumar Rabidas
 Feel free to fork and improve this project!
