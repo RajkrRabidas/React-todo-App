@@ -1,12 +1,43 @@
-# React + Vite
+# 📝 React Todo App (Glassmorphism UI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimal Todo application built with **ReactJS**. Designed with a beautiful **Glassmorphism UI**, this app allows users to:
 
-Currently, two official plugins are available:
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 💾 Automatically save tasks using **LocalStorage**
+- 🔁 Load tasks even after refreshing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔧 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React Functional Components**
+- **useState + useEffect**
+- **LocalStorage Persistence**
+- **Reusable Components**
+- **Fully Responsive Design**
+- **Glassmorphism CSS Design**
+
+---
+
+## 📸 Screenshot
+
+![Todo App Screenshot](./screenshot.png) <!-- You can upload a screenshot in repo and link it -->
+
+---
+
+## 🛠️ Technologies Used
+
+- React JS (Vite / CRA)
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- Glassmorphism Design Pattern
+- LocalStorage
+
+---
+
+## 📁 Project Structure
+
+✨ Author
+Made with ❤️ by Raj kumar Rabidas
+Feel free to fork and improve this project!
